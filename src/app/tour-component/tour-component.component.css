@@ -1,0 +1,7 @@
+.svg-wrapper {
+  max-width: 100%;
+  overflow-x: auto;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  background-color: #f8f9fa;
+}
